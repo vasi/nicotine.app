@@ -1,0 +1,10 @@
+* get it working!
+* integration:
+  - icon
+  - menu name
+  - keyboard
+* Better building: ruby?
+* geoip, vorbis, psyco...
+* packaging
+* universal? 10.4?
+* version detection
