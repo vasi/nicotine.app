@@ -1,10 +1,11 @@
-* get it working!
 * integration:
+  - theme
   - icon
   - menu name
   - keyboard
 * Better building: ruby?
-* geoip, vorbis, psyco...
+* geoip, vorbis, psyco, libsexy
 * packaging
 * universal? 10.4?
-* version detection
+* new version detection
+* museeq?

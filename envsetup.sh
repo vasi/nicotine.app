@@ -25,4 +25,6 @@ export PATH="$PREFIX/bin:/usr/bin:/bin"
 export PYTHONPATH=$PREFIX/lib/python2.5/site-packages
 export PKG_CONFIG_PATH=/usr/lib/pkgconfig # for libxml2
 
-export PATH="/Users/vasi/Hacking/Commands/ccache:$PATH"
+if [ -z "$CCACHE_DISABLE" ]; then
+  export PATH="/Users/vasi/Hacking/Commands/ccache:$PATH"
+fi
