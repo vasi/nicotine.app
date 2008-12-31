@@ -1,0 +1,1 @@
+Currently just builds Nicotine+ on Mac OS X 10.5 Leopard (Intel) with the quartz backend of GTK+. Run ./build.sh
